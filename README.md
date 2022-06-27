@@ -1,7 +1,7 @@
 # Project_2-Eniac_Discounts-
 
 
-All code details on Project_2.code file
+All code details in Project_2.code file
 
 Should Eniac offer discounts on products?
 ● How should products be classified into different categories in order to simplify reports
